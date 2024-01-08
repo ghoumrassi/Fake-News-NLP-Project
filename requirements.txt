@@ -1,0 +1,12 @@
+gensim==4.3.2
+ipykernel
+lightgbm==4.1.0
+matplotlib==3.8.2
+nltk==3.8.1
+numpy==1.26.2
+pandas==2.1.4
+scikit-learn==1.3.2
+scipy==1.11.4
+seaborn==0.13.0
+shap==0.44.0
+textblob==0.17.1
